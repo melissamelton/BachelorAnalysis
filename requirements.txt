@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+ipympl
+requests
+bs4
